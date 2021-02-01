@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include global_trade *.css
+recursive-include global_trade *.csv
+recursive-include global_trade *.html
+recursive-include global_trade *.ico
+recursive-include global_trade *.js
+recursive-include global_trade *.json
+recursive-include global_trade *.md
+recursive-include global_trade *.png
+recursive-include global_trade *.py
+recursive-include global_trade *.svg
+recursive-include global_trade *.txt
+recursive-exclude global_trade *.pyc
