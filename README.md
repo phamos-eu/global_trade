@@ -18,7 +18,7 @@ chown -R frappe:frappe *
 
 Then run a
 
-bench migrate
+bench migrate && bench build
 
 bench restart
 
