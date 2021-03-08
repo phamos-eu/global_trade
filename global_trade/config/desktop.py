@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Global Trade",
 			"color": "grey",
-			"icon": "octicon octicon-file-directory",
+			"icon": "octicon octicon-global",
 			"type": "module",
 			"label": _("Global Trade")
 		}
