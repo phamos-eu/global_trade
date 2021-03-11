@@ -28,4 +28,4 @@ If you have any question, please create an issue.
 
 #### License
 
-MIT
+GNU GPLv3
